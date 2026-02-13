@@ -1,0 +1,6 @@
+AudioWAV/
+__pycache__/
+emotion_model.pkl
+intensity_model.pkl
+wav2vec_multitask.pt
+
